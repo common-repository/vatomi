@@ -1,0 +1,530 @@
+# Copyright (C) 2019 Vatomi
+# This file is distributed under the same license as the Vatomi package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vatomi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: nK <https://nkdev.info>\n"
+"Last-Translator: nK <https://nkdev.info>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: dist/vatomi/admin/class-awesome-support.php:66, dist/vatomi/front/class-awesome-support.php:212
+msgid "Products"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:77
+msgid "You imported all the products you have with Envato. If you want to get a list of products, please remove the already imported products and click on Reset to Defaults."
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:82
+msgid "Please check the correctness of your personal token key "
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:82
+msgid "here"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:88
+msgid "Envato Import"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:91
+msgid "Select Products"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:161, dist/vatomi/admin/class-awesome-support.php:163
+msgid "Product: "
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:161
+msgid " successfully imported."
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:163
+msgid " already exist."
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:218, dist/vatomi/admin/class-awesome-support.php:247
+msgid "Envato Validation"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:220
+msgid "License Verification"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:223
+msgid "Enable Envato license verification for this product."
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:227, dist/vatomi/admin/class-awesome-support.php:263
+msgid "Product ID"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:250
+msgid "Enable License Verification"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:257
+msgid "Yes"
+msgstr ""
+
+#: dist/vatomi/admin/class-awesome-support.php:259
+msgid "Enable the Envato license verification for this product."
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-api.php:534
+msgid "Error: "
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-wordpress-api.php:174
+msgid "HTTP request failed. Error was: "
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-wordpress-api.php:187
+msgid "Bad access token."
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-wordpress-api.php:190
+msgid "Bad refresh token."
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-wordpress-api.php:386
+msgid "New Envato user"
+msgstr ""
+
+#. translators: %1$s - username.
+#: dist/vatomi/admin/class-envato-wordpress-api.php:392
+msgid "New Envato user: %1$s [%2$s]"
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-wordpress-api.php:430
+msgid "Envato username were not updated"
+msgstr ""
+
+#: dist/vatomi/admin/class-envato-wordpress-api.php:437
+msgid "User account details were not updated"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:104, dist/vatomi/admin/class-settings.php:71, dist/vatomi/vatomi.php:89, dist/vatomi/vatomi.php:144, dist/vatomi/vatomi.php:145
+msgid "Licenses"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:136, dist/vatomi/admin/class-settings.php:153
+msgid "Licenses Page"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:226, dist/vatomi/admin/class-licenses.php:399
+msgid "License"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:238
+msgid "Code"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:250, dist/vatomi/admin/class-licenses.php:401
+msgid "Item"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:262, dist/vatomi/admin/class-licenses.php:400
+msgid "Site"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:274, dist/vatomi/admin/class-licenses.php:402
+msgid "Buyer"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:301
+msgid "Purchased"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:315, dist/vatomi/admin/class-user-settings.php:143
+msgid "Supported"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:331
+msgid "Amount"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:343
+msgid "Support Amount"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:398
+msgid "Title"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:403
+msgid "Dates"
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:491
+msgid "Not enough data for activation."
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:498, dist/vatomi/admin/class-licenses.php:605
+msgid "You don't have permissions to do this."
+msgstr ""
+
+#. translators: %1$s - site.
+#: dist/vatomi/admin/class-licenses.php:561
+msgid "Activated %1$s (%2$s)."
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:585
+msgid "Something went wrong while activation."
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:598
+msgid "Not enough data for deactivation."
+msgstr ""
+
+#. translators: %1$s - site.
+#: dist/vatomi/admin/class-licenses.php:644
+msgid "Deactivated %1$s (%2$s)."
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:653
+msgid "Something went wrong while deactivation."
+msgstr ""
+
+#: dist/vatomi/admin/class-licenses.php:866, dist/vatomi/admin/class-licenses.php:868
+msgid "F j, Y"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:152
+msgid "Vatomi Logs"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:178
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:179
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:180
+msgid "Search Types"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:181
+msgid "All Types"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:182
+msgid "Parent Type"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:183
+msgid "Parent Type:"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:184
+msgid "Edit Type"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:185
+msgid "Update Type"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:186
+msgid "Add New Type"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:187
+msgid "New Type Name"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:188
+msgid "Type"
+msgstr ""
+
+#. translators: %s - label.
+#: dist/vatomi/admin/class-logging.php:229
+msgid "Show All %s"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:536
+msgid "IP"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:540
+msgid "User Agent"
+msgstr ""
+
+#: dist/vatomi/admin/class-logging.php:544
+msgid "Requested URL"
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:131, dist/vatomi/admin/class-rest-api.php:159, dist/vatomi/admin/class-rest-api.php:187, dist/vatomi/admin/class-rest-api.php:300
+msgid "No api keys specified."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:137, dist/vatomi/admin/class-rest-api.php:165, dist/vatomi/admin/class-rest-api.php:209
+msgid "Provide item ID."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:144
+msgid "Item URL not found."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:172
+msgid "Item version not found."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:213, dist/vatomi/admin/class-rest-api.php:306
+msgid "Provide purchase code."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:217
+msgid "Provide activated site url."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:266
+msgid "Your site was not activated."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:285
+msgid "Item WP URL not found."
+msgstr ""
+
+#: dist/vatomi/admin/class-rest-api.php:313
+msgid "Purchase code no valid."
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:50, dist/vatomi/admin/class-settings.php:51
+msgid "Settings"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:67
+msgid "Envato Settings"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:75
+msgid "oAuth Button"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:79, dist/vatomi/vatomi.php:153, dist/vatomi/vatomi.php:154
+msgid "Logs"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:92
+msgid "WordPress Login Form"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:96
+msgid "Awesome Support Form"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:99
+msgid "Buddypress Form"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:106
+msgid "oAuth"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:108
+msgid "Get Secret Key and Client ID"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:109
+msgid "Set these permissions:"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:122
+msgid "Secret Key"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:127
+msgid "OAuth client ID"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:133
+msgid "Confirmation URL"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:139, dist/vatomi/admin/class-settings.php:145
+msgid "Personal Token"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:140
+msgid "Get Personal Token"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:158
+msgid "-- Select Page --"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:165
+msgid "Place inside"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:166
+msgid "Select where the sign in button will be located"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:175
+msgid "To manually place a sign in button, use a <code onclick=\"window.getSelection().selectAllChildren(this)\">[vatomi_login_form]</code> shortcode"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:180
+msgid "Redirect after login"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:181
+msgid "Enter Redirect Link"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:183
+msgid "If you leave the field blank, after authorization, the user will return to the same page on which the button was."
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:190
+msgid "Enable logging"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:196
+msgid "Prune old logs"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:200
+msgid "Never Prune"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:201
+msgid "1 day ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:202
+msgid "3 days ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:203
+msgid "1 week ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:204
+msgid "2 weeks ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:205
+msgid "3 weeks ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:206
+msgid "1 month ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:207
+msgid "2 months ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:208
+msgid "3 months ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-settings.php:209
+msgid "4 months ago"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:90
+msgid "Envato Data"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:97
+msgid "Username"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:106
+msgid "Full Name"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:118
+msgid "Country"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:135
+msgid "Purchases"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:140, dist/vatomi/front/class-awesome-support.php:210, dist/vatomi/front/class-awesome-support.php:211, dist/vatomi/front/class-awesome-support.php:220
+msgid "Product"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:141
+msgid "Id"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:142
+msgid "Purchase Date"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:144
+msgid "Purchase Code"
+msgstr ""
+
+#: dist/vatomi/admin/class-user-settings.php:171, dist/vatomi/front/class-awesome-support.php:100, dist/vatomi/shortcodes/licenses.php:140, dist/vatomi/shortcodes/licenses.php:181
+msgid "Refresh Data"
+msgstr ""
+
+#: dist/vatomi/front/class-awesome-support.php:129
+msgid "Support Expired"
+msgstr ""
+
+#: dist/vatomi/front/class-awesome-support.php:135
+msgid "You should purchase this product to get support."
+msgstr ""
+
+#: dist/vatomi/front/class-awesome-support.php:138
+msgid "Your purchase list is empty. You should purchase this product to get support."
+msgstr ""
+
+#: dist/vatomi/front/class-awesome-support.php:143, dist/vatomi/front/class-awesome-support.php:146
+msgid "Please select product"
+msgstr ""
+
+#: dist/vatomi/front/class-awesome-support.php:180
+msgid "You have no permission to do this."
+msgstr ""
+
+#: dist/vatomi/shortcodes/envato-login-shortcode.php:75
+msgid "Login With Envato"
+msgstr ""
+
+#: dist/vatomi/shortcodes/licenses.php:89
+msgid "If you already activated license you can see it on \"Licenses List\" page. Can't find your license? Try to click on \"Refresh Data\" button."
+msgstr ""
+
+#: dist/vatomi/shortcodes/licenses.php:121
+msgid "-- Select License --"
+msgstr ""
+
+#: dist/vatomi/shortcodes/licenses.php:133
+msgid "Activate"
+msgstr ""
+
+#: dist/vatomi/shortcodes/licenses.php:137, dist/vatomi/shortcodes/licenses.php:142
+msgid "Licenses List"
+msgstr ""
+
+#: dist/vatomi/shortcodes/licenses.php:150
+msgid "Can't find your license? Try to click on \"Refresh Data\" button."
+msgstr ""
+
+#: dist/vatomi/vatomi.php:133, dist/vatomi/vatomi.php:134
+msgid "Vatomi"
+msgstr ""
+
+#: dist/vatomi/vendors/wedevs-settings-api.php:374
+msgid "Choose File"
+msgstr ""

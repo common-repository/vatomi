@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="vatomi" horiz-adv-x="1000" >
+<font-face font-family="vatomi" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="envato" unicode="&#xe801;" d="M747 744c-24 13-91 5-171-20-142-97-261-239-269-467-2-6-16 1-18 2-39 73-54 150-22 261 6 10-13 22-17 19-7-7-36-38-55-72-96-166-33-379 134-473 168-93 380-33 474 135 108 194 7 580-56 615z" horiz-adv-x="1000" />
+
+<glyph glyph-name="leaf" unicode="&#xe802;" d="M236 646q182 106 506 66 168-22 196-50 4-6-2-10-76-40-130-109t-78-132-65-132-93-105q-138-96-382-4-66-76-114-176-12-24-47-7t-25 39q44 100 129 193t176 153 176 106 141 68l54 20q-14 0-41-1t-104-14-148-38-162-84-161-141q-22 242 174 358z" horiz-adv-x="940" />
+</font>
+</defs>
+</svg>
